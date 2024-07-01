@@ -22,7 +22,8 @@ Spring Boot, Java, REACT, HTML5/CSS3/JavaScript, MyBaits, JPA, AWS
 # 직접 구현한 기능 영상
 
 ## 게시판
-<iframe width="560" height="315" src="https://youtu.be/awCfZnPH_Sc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![게시판 동영상](http://img.youtube.com/vi/awCfZnPH_Sc/0.jpg)](https://youtu.be/awCfZnPH_Sc)
 
 ## 채팅
-<iframe width="560" height="315" src="https://youtu.be/GgoQ1-DBkQY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![채팅 동영상](http://img.youtube.com/vi/GgoQ1-DbkQY/0.jpg)](https://youtu.be/GgoQ1-DbkQY)
+
