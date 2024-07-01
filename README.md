@@ -31,3 +31,30 @@ Spring Boot, Java, REACT, HTML5/CSS3/JavaScript, MyBaits, JPA, AWS
 
 ## 채팅
 [![채팅 동영상](https://img.youtube.com/vi/GgoQ1-DBkQY/maxresdefault.jpg)](https://youtu.be/GgoQ1-DBkQY)
+
+이 프로젝트를 통해 배운 내용
+
+✏️ React의 여러 hook (useState, useEffect, useRef 등) 들을 직접 사용해보며 사용 목적과 사용 방법을 알게 되었습니다.
+# React Hooks
+
+<details>
+  <summary>학습한 react hook 내용 (사용 목적, 사용 방법) [클릭]</summary>
+  <br>
+
+  1️⃣ useState : 컴포넌트의 상태값을 선언하고 관리하는 hook입니다. const [count, setCount] = useState(0); 식으로 초기 값을 0으로 선언할 수도 있고, const [list, setList] = useState([])로 빈 배열 형태로 선언할 수도 있습니다. 혹은 const [user, setUser ] = useState({uid:'', name:"", age:0}) 이렇게 원하는 빈 객체 값으로 선언할 수도 있습니다.
+
+  2️⃣ useEffect : 의존성 배열을 이용해, 상태값이 업데이트 될 때마다 실행할 수 있습니다.
+  useEffect(() => { console.log("state name update..."); }, [name]);
+  이렇게 하면 name의 값이 변경될 때마다 console.log 가 실행됩니다.
+
+  3️⃣ useRef : 컴포넌트에 참조값을 설정하고, 참조하기 위한 hook 입니다.
+  const refUid =useRef(); 로 ref 를 생성하고 이렇게 하면 입력한 값을 참조할 수 있습니다.
+
+</details>
+
+
+
+
+
+
+
