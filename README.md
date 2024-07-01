@@ -19,6 +19,11 @@ Spring Boot, Java, REACT, HTML5/CSS3/JavaScript, MyBaits, JPA, AWS
 ![image](https://github.com/Taeyoung20230727/OrangeNode-F/assets/140632598/fa7b5e68-a6dd-49f5-9e56-3fefc0154327)
 
 
+<details>
+  <summary>![image](https://github.com/Taeyoung20230727/OrangeNode-F/assets/140632598/fa7b5e68-a6dd-49f5-9e56-3fefc0154327)</summary>
+</details>
+
+
 # 직접 구현한 기능 영상
 --------------------------------------
 
@@ -66,10 +71,7 @@ Spring Boot, Java, REACT, HTML5/CSS3/JavaScript, MyBaits, JPA, AWS
 <details>
   <summary>학습한 socket 통신 </summary>
   <br>
-
-
-
-
+  
   webSocket이란 서버와 클라이언트 간의 메시지 교환을 위한 통신규약을 말합니다. 양방향 통신이 가능하며, http와 다르게 지속적 연결을 수립하여 실시간 데이터 처리를 요하는 작업에 유용하게 쓰입니다.
 구현한 과정
 
