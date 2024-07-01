@@ -16,13 +16,12 @@ Spring Boot, Java, REACT, HTML5/CSS3/JavaScript, MyBaits, JPA, AWS
 
 ### ERD
 --------------------------------------
-![image](https://github.com/Taeyoung20230727/OrangeNode-F/assets/140632598/fa7b5e68-a6dd-49f5-9e56-3fefc0154327)
-
-
 <details>
   <summary>ERD</summary>
-  ![image](https://github.com/Taeyoung20230727/OrangeNode-F/assets/140632598/fa7b5e68-a6dd-49f5-9e56-3fefc0154327)
+  <br>
+  <img src="https://github.com/Taeyoung20230727/OrangeNode-F/assets/140632598/fa7b5e68-a6dd-49f5-9e56-3fefc0154327" alt="ERD">
 </details>
+
 
 
 # 직접 구현한 기능 영상
