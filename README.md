@@ -15,12 +15,17 @@
 
 
 ### 사용한 기술
+--------------------------------------
 Spring Boot, Java, REACT, HTML5/CSS3/JavaScript, MyBaits, JPA, AWS
+
+
+### ERD
+--------------------------------------
 ![image](https://github.com/Taeyoung20230727/OrangeNode-F/assets/140632598/82bb028e-10fd-4812-a51e-88ed07a29845)
 
 
 # 직접 구현한 기능 영상
-
+--------------------------------------
 ## 게시판
 [![게시판 동영상](http://img.youtube.com/vi/awCfZnPH_Sc/0.jpg)](https://youtu.be/awCfZnPH_Sc)
 
