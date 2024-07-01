@@ -26,11 +26,17 @@ Spring Boot, Java, REACT, HTML5/CSS3/JavaScript, MyBaits, JPA, AWS
 
 # 직접 구현한 기능 영상
 --------------------------------------
+
 ## 게시판
-[![게시판 동영상](http://img.youtube.com/vi/awCfZnPH_Sc/maxresdefault.jpg)](https://youtu.be/awCfZnPH_Sc)
+<a href="https://youtu.be/awCfZnPH_Sc">
+  <img src="http://img.youtube.com/vi/awCfZnPH_Sc/maxresdefault.jpg" alt="게시판 동영상" width="500"/>
+</a>
 
 ## 채팅
-[![채팅 동영상](https://img.youtube.com/vi/GgoQ1-DBkQY/maxresdefault.jpg)](https://youtu.be/GgoQ1-DBkQY)
+<a href="https://youtu.be/GgoQ1-DBkQY">
+  <img src="https://img.youtube.com/vi/GgoQ1-DBkQY/maxresdefault.jpg" alt="채팅 동영상" width="500"/>
+</a>
+
 
 이 프로젝트를 통해 배운 내용
 
