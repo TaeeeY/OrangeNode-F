@@ -38,8 +38,8 @@ Spring Boot, Java, REACT, HTML5/CSS3/JavaScript, MyBaits, JPA, AWS
 </a>
 
 
-이 프로젝트를 통해 배운 내용
-
+### 이 프로젝트를 통해 배운 내용
+--------------------------------------
 ✏️ React의 여러 hook (useState, useEffect, useRef 등) 들을 직접 사용해보며 사용 목적과 사용 방법을 알게 되었습니다.
 <details>
   <summary>학습한 react hook 내용 (사용 목적, 사용 방법) [클릭]</summary>
