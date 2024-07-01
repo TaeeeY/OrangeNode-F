@@ -20,7 +20,8 @@ Spring Boot, Java, REACT, HTML5/CSS3/JavaScript, MyBaits, JPA, AWS
 
 
 <details>
-  <summary>![image](https://github.com/Taeyoung20230727/OrangeNode-F/assets/140632598/fa7b5e68-a6dd-49f5-9e56-3fefc0154327)</summary>
+  <summary>ERD</summary>
+  ![image](https://github.com/Taeyoung20230727/OrangeNode-F/assets/140632598/fa7b5e68-a6dd-49f5-9e56-3fefc0154327)
 </details>
 
 
