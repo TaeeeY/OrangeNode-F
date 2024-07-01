@@ -25,5 +25,5 @@ Spring Boot, Java, REACT, HTML5/CSS3/JavaScript, MyBaits, JPA, AWS
 [![게시판 동영상](http://img.youtube.com/vi/awCfZnPH_Sc/0.jpg)](https://youtu.be/awCfZnPH_Sc)
 
 ## 채팅
-[![채팅 동영상](http://img.youtube.com/vi/GgoQ1-DbkQY/0.jpg)](https://youtu.be/GgoQ1-DbkQY)
+[![채팅 동영상](http://img.youtube.com/vi/GgoQ1-DbkQY/0.jpg)](https://youtu.be/GgoQ1-DBkQY)
 
