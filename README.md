@@ -60,7 +60,7 @@ Spring Boot, Java, REACT, HTML5/CSS3/JavaScript, MyBaits, JPA, AWS
 
   5. useLocation :현재 url에 대한 정보에 접근하기 위한 hook입니다.
 
-  6. useNavigate : 자바스크립트의 window.location.href 와 비슷한 역할을 합니다. 이 프로젝트에서는 사용자가 로그인을 하지 않았는데 채팅으로 접속을 시도 할 경우 alert("로그인 후 사용해주세요.")   이후 useNavigate를 이용해 login 화면으로 이동시킬 때 사용하였습니다.
+  6. useNavigate : 자바스크립트의 window.location.href 와 비슷한 역할을 합니다.
 
 </details>
 
