@@ -62,7 +62,7 @@ Spring Boot, Java, REACT, HTML5/CSS3/JavaScript, MyBaits, JPA, AWS
 
   6. useNavigate : 자바스크립트의 window.location.href 와 비슷한 역할을 합니다.
 
-</details>
+</details><br />
 
 
 
